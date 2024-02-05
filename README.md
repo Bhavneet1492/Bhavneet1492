@@ -25,8 +25,8 @@
 <h1>&nbsp;</h1>
 
 <div align="center">
-<img height="238em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavneet1492&layout=compact&show_icon=true&theme=algolia" alt="bhavneet1492-stats"/>
-<img height="238em" src="https://github-readme-stats.vercel.app/api/?username=bhavneet1492&layout=compact&show_icon=true&theme=algolia" alt="bhavneet1492-stats"/>
+<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavneet1492&layout=compact&show_icon=true&theme=algolia" alt="bhavneet1492-stats"/>
+<img height="240em" src="https://github-readme-stats.vercel.app/api/?username=bhavneet1492&layout=compact&show_icon=true&theme=algolia" alt="bhavneet1492-stats"/>
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=bhavneet1492&theme=algolia&background=0d1117&hide_border=true" />
@@ -35,7 +35,7 @@
 <div align="center">
  <img height="200" alt="image" src="https://github.com/Bhavneet1492/Bhavneet1492/assets/76656963/2da48579-8323-43b1-b578-ebcc6cd08131" align="center"> 
  <h1>Smile before you leave ;)</h1>
- <h5>and don't forget your veggies •ᴗ• </h5>
+ <h5>and don't forget to eat your veggies •ᴗ• </h5>
 </div>
 
 
