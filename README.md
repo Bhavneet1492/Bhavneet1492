@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/playlist/3XKLxWQ2GbgclMRdy20gqg"><img height="35" alt="image" src="https://github.com/Bhavneet1492/Bhavneet1492/assets/76656963/a15cb977-5f0c-4496-bad8-47370cacaf36"></a>
 
-<h1>&nbsp;</h1>
+<hr>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavneet1492&layout=compact&show_icon=true&theme=algolia" alt="bhavneet1492-stats"/>
@@ -34,12 +34,9 @@
 
 <div align="center">
  <img height="200" alt="image" src="https://github.com/Bhavneet1492/Bhavneet1492/assets/76656963/2da48579-8323-43b1-b578-ebcc6cd08131" align="center"> 
- <h1>Smile before you leave ;)</h1>
- <h5>and don't forget to eat your veggies •ᴗ• </h5>
+ <br>
+ <img width="634" alt="image" src="https://github.com/Bhavneet1492/Bhavneet1492/assets/76656963/dc857af3-a17b-471b-a5f4-f81fe5078a4d">
 </div>
-
-
-<br><br><br>
 
 <div align="center">
    <h2 align="center">accepting orders on ☎️</h2>
