@@ -26,7 +26,7 @@
 
 <div>
  <p>
-  <h3><b><i>how 'bout listening to some cool sh*t while waiting for your order?</i></b></h3>
+  <h3><b><i>how 'bout listening to something supercool while waiting for your order?</i></b></h3>
  </p>
 </div>
 
