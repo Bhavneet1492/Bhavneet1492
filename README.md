@@ -91,7 +91,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=bhavneet1492&layout=compact&show_icon=true&theme=algolia" alt="bhavneet1492-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=bhavneet1492&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=bhavneet1492&theme=algolia&background=0d1117" />
 </div>
 
 <div align="center">
