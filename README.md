@@ -28,7 +28,7 @@
 
 #### _how 'bout listening to some cool sh*t while waiting for your order?_
 
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=6ep8jm9i1mi1wahj8vxagm1rk&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=6ep8jm9i1mi1wahj8vxagm1rk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="play now!"></img></a>
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=6ep8jm9i1mi1wahj8vxagm1rk&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=6ep8jm9i1mi1wahj8vxagm1rk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="pls wait for a few seconds for the advertisement on spotify to end"></img></a>
 
 <a href="https://open.spotify.com/playlist/6sSirezLTxD5hspoVuIC38?si=87574ebfc2fe44b0"><img height="30" alt="image" src="https://github.com/Bhavneet1492/Bhavneet1492/assets/76656963/712307e0-f09a-400d-ae8d-775f419c164b"></a>
 &nbsp;&nbsp;&nbsp;
