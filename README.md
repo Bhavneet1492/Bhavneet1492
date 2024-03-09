@@ -5,24 +5,77 @@
 
 <div align="left">
 
- <h2 align="left"> customers served 👇</h2>
-  <img src="https://profile-counter.glitch.me/bhavneet1492/count.svg?" />
+ <h2 align="left"> customers served 👇
+  <br>
+ <img src="https://profile-counter.glitch.me/bhavneet1492/count.svg?" />
+  <br>
+ </h2>
   
   <p align="right" height="1000">
-     <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="180" height="180" align="right"/>
+     <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="140" height="140" align="right"/>
      <h3 align="left>how 'bout listening to some cool sh*t while waiting for your order?</h3>
    <br></br><br></br><br></br><br></br><br></br>
   </p>  
 </div>
 
 #### _how 'bout listening to some cool sh*t while waiting for your order?_
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/6ep8jm9i1mi1wahj8vxagm1rk)
-<br>
+![https://spotify-github-profile.vercel.app/api/view.svg?uid=6ep8jm9i1mi1wahj8vxagm1rk&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=6ep8jm9i1mi1wahj8vxagm1rk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
+
 <a href="https://open.spotify.com/playlist/6sSirezLTxD5hspoVuIC38?si=87574ebfc2fe44b0"><img height="30" alt="image" src="https://github.com/Bhavneet1492/Bhavneet1492/assets/76656963/712307e0-f09a-400d-ae8d-775f419c164b"></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/playlist/3XKLxWQ2GbgclMRdy20gqg"><img height="35" alt="image" src="https://github.com/Bhavneet1492/Bhavneet1492/assets/76656963/a15cb977-5f0c-4496-bad8-47370cacaf36"></a>
 
-<hr>
+
+<img src="https://github.com/Bhavneet1492/Bhavneet1492/assets/76656963/537bcf08-21cc-4f1c-9088-955a4e9f87e7" width="150" height="150" align="left"/>
+
+### `currently preparing`
+
+ 🌍 Azure Digital Twin <br>
+ ⚡Embedded Variational Autoencoders <br>
+ 🪐Multivariate Time Series Forecasting <br>
+ 🥕 Microservices <br>
+ 🌽 Simpy based Reinforcement Learning Framework
+
+###  **█████▓▓▓▓▓▒▒▒▒▒░░░░░ ! 𝚆𝙴'𝚁𝙴 𝙷𝙸𝚁𝙸𝙽𝙶 ! ░░░░░▒▒▒▒▒▓▓▓▓▓█████** 
+
+<p align="right" height="1000">
+ <img src="https://github.com/Bhavneet1492/Bhavneet1492/assets/76656963/23110942-bd19-4606-881b-59703682ae88" width="170" align="left"/>
+</p>
+
+#### **Apply Now if you're** <br>
+ 🍍 * Cute * <br>
+ 🧋 Interested in Psychology | HealthTech | Climate <br>
+ 🥤 Familiar with App/Web Dev | Content Creation <br>
+ 🍦 Have great design skills (2D/3D/UI/UX/Animation/Web-Des) <br>
+ 🌱 Interested in Sustainability Goals | Water | Waste Management <br>
+ 🍿 Familiar with Branding & Marketing <br>
+
+### ❚█══════════--------------- &nbsp;&nbsp; M̾a̾̾g̾a̾̾z̾̾i̾̾n̾̾e̾ ̾R̾a̾̾c̾̾k̾  &nbsp;&nbsp; --------------══════════█❚
+
+
+<p align="left" height="1000">
+ <img src="https://github.com/Bhavneet1492/Bhavneet1492/assets/76656963/bd71cf79-6ce9-43d3-9816-a3042c7fe514" width="170" align="left"/>
+</p>
+
+#### `we wan't to keep you hooked <3`
+
+| AI/ML | Web-Dev/Blockchain | Team Projects/Orgs |
+| :---         |     :---:      |          ---: |
+| [LaMAML](https://github.com/Bhavneet1492/La-MAML) | [Snowstream](https://github.com/Bhavneet1492/snowstream) | [Varchas](https://github.com/Bhavneet1492/Varchas) |
+| [Anytime Active Learning](https://github.com/Bhavneet1492/Anytime-Active-Learning)     | [Flightmap](https://github.com/Bhavneet1492/flightmap) | [Weather-App](https://github.com/MLH-Fellowship/prep-project-22.OCT.PREP.1)  |
+| [Automoviz](https://github.com/Bhavneet1492/automoviz) | [Ignite](https://github.com/Bhavneet1492/ignite) | [Pod-Portfolio](https://github.com/MLH-Fellowship/prep-portfolio-22.OCT.PREP.1) |
+
+<br>
+<br>
+
+---
+
+<div align="center">
+ <h3>🤫 𝐒𝐡𝐡𝐡𝐡𝐡...𝐰𝐞'𝐫𝐞 𝐯𝐞𝐠𝐚𝐧, 𝐭𝐡𝐢𝐬 𝐢𝐬 𝐣𝐮𝐬𝐭 𝐨𝐮𝐫 𝐩𝐞𝐭. 𝐒𝐚𝐲 𝐇𝐞𝐥𝐥𝐨 𝐭𝐨 𝐂𝐎𝐂𝐎!</h3>
+  <img height="100" src="https://www.codedex.io/api/petStatus?user=glitchfilter" align="center"/>
+</div>
+
+<br>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavneet1492&layout=compact&show_icon=true&theme=algolia" alt="bhavneet1492-stats"/>
