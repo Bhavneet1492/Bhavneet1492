@@ -57,7 +57,7 @@
  <img src="https://github.com/Bhavneet1492/Bhavneet1492/assets/76656963/bd71cf79-6ce9-43d3-9816-a3042c7fe514" width="170" align="left"/>
 </p>
 
-#### `we wan't to keep you hooked <3`
+#### `we want to keep you hooked <3`
 
 | AI/ML | Web-Dev/Blockchain | Team Projects/Orgs |
 | :---         |     :---:      |          ---: |
