@@ -26,7 +26,7 @@
   </p>  
 </div>
 
-#### _how 'bout listening to some cool sh*t while waiting for your order?_
+<h3><b><i>how 'bout listening to some cool sh*t while waiting for your order?</i></b></h3>
 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=6ep8jm9i1mi1wahj8vxagm1rk&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=6ep8jm9i1mi1wahj8vxagm1rk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=ff7373&bar_color_cover=false" alt="pls wait for a few seconds for the advertisement on spotify to end"></img></a>
 
