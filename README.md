@@ -1,6 +1,8 @@
 ![image](https://github.com/Bhavneet1492/Bhavneet1492/assets/76656963/b326e289-4a09-4555-80d4-1c62f058b03d)
 ### 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=000&color=01DF26&center=true&vCenter=true&multiline=true&random=false&width=1000&height=400&lines=Hello+World!+This+is+Glitch%2C+the+master+chef+at+Glitch's++Restro%2C+where+we;cook+innovation+and+serve+a+feast+of++creativity!+%F0%9F%8D%B3+In+my+kitchen%2C+I+whip;up+delectable+financial+models+and+forecasting+dishes+with+a+dash+of+NLP%2C;all+while+keeping+an+eye+on+the+environmental+tech+oven%2C+baking+solutions+;for+water%2C+climate%2C+and+waste+management.+%F0%9F%8C%B1++My+recipe+book+is+filled+with;designs+and+web+development+delights%2C+seasoned+with+blockchain+for+that;extra+zing.+When+I'm+not+in+the+kitchen%2C+you'll+find+me+grooving+to+the;beat%2C+hand+lettering+the+menu%2C+or+dreaming+up+the+next+big+dish%E2%80%94because%2C+;let's+be+honest%2C+napping+is+the+secret+ingredient+to+culinary+genius!+%F0%9F%92%A4;And+oh%2C+did+I+mention+I'm+a+foodie%3F+I+love+to+travel%2C+seeking+out+the;world's+flavors+to+bring+back+to+my+restro.+So%2C+grab+a+seat%2C+tuck+in+your;napkin+and+get+ready+to+savor+the+taste+of+tech+with+a+side+of+fun+at+;Glitch's+Restro!+;------------------------------------------+Bon+App%C3%A9tit!+%F0%9F%9A%80%F0%9F%8C%8D%F0%9F%A5%97+------------------------------------------)](https://git.io/typing-svg)
+
 ![image](https://github.com/Bhavneet1492/Bhavneet1492/assets/76656963/b0992bd9-b3bc-42a7-8637-e83cbd67c90a)
 
 <div align="left">
