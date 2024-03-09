@@ -86,6 +86,8 @@
 
 <br>
 
+[![](https://github-readme-activity-graph.vercel.app/graph?username=Bhavneet1492&theme=github-compact&height=225&hide_title=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavneet1492&layout=compact&show_icon=true&theme=algolia" alt="bhavneet1492-stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=bhavneet1492&layout=compact&show_icon=true&theme=algolia" alt="bhavneet1492-stats"/>
