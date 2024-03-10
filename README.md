@@ -47,7 +47,7 @@
  🥕 Microservices <br>
  🌽 Simpy based Reinforcement Learning Framework
 
-###  **█████▓▓▓▓▓▒▒▒▒▒░░░░░ ! 𝚆𝙴'𝚁𝙴 𝙷𝙸𝚁𝙸𝙽𝙶 ! ░░░░░▒▒▒▒▒▓▓▓▓▓█████** 
+###  **███▓▓▓▒▒▒░░░ ! 𝚆𝙴'𝚁𝙴 𝙷𝙸𝚁𝙸𝙽𝙶 ! ░░░▒▒▒▓▓▓███** 
 
 <p align="right" height="1000">
  <img src="https://github.com/Bhavneet1492/Bhavneet1492/assets/76656963/23110942-bd19-4606-881b-59703682ae88" width="170" align="left"/>
@@ -61,7 +61,7 @@
  🌱 Interested in Sustainability Goals | Water | Waste Management <br>
  🍿 Familiar with Branding & Marketing <br>
 
-### ❚█══════════--------------- &nbsp;&nbsp; M̾a̾̾g̾a̾̾z̾̾i̾̾n̾̾e̾ ̾R̾a̾̾c̾̾k̾  &nbsp;&nbsp; --------------══════════█❚
+### ❚█════----------- &nbsp;&nbsp; M̾a̾̾g̾a̾̾z̾̾i̾̾n̾̾e̾ ̾R̾a̾̾c̾̾k̾  &nbsp;&nbsp; ----------════█❚
 
 
 <p align="left" height="1000">
