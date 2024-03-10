@@ -70,11 +70,11 @@
 
 #### `we want to keep you hooked <3`
 
-| AI/ML | Web-Dev/Blockchain | Team Projects/Orgs |
-| :---         |     :---:      |          ---: |
-| [LaMAML](https://github.com/Bhavneet1492/La-MAML) | [Snowstream](https://github.com/Bhavneet1492/snowstream) | [Varchas](https://github.com/Bhavneet1492/Varchas) |
-| [Anytime Active Learning](https://github.com/Bhavneet1492/Anytime-Active-Learning)     | [Flightmap](https://github.com/Bhavneet1492/flightmap) | [Weather-App](https://github.com/MLH-Fellowship/prep-project-22.OCT.PREP.1)  |
-| [Automoviz](https://github.com/Bhavneet1492/automoviz) | [Ignite](https://github.com/Bhavneet1492/ignite) | [Pod-Portfolio](https://github.com/MLH-Fellowship/prep-portfolio-22.OCT.PREP.1) |
+| Web2/Web3 | AI/ML | Team Projects |
+| :---        |     :---:      |      ---: |
+|  [Snowstream](https://github.com/Bhavneet1492/snowstream) | [LaMAML](https://github.com/Bhavneet1492/La-MAML) | [Varchas](https://github.com/Bhavneet1492/Varchas) |
+| [Flightmap](https://github.com/Bhavneet1492/flightmap) | [Anytime Active Learning](https://github.com/Bhavneet1492/Anytime-Active-Learning) | [Weather-App](https://github.com/MLH-Fellowship/prep-project-22.OCT.PREP.1)  |
+| [Ignite](https://github.com/Bhavneet1492/ignite) | [Automoviz](https://github.com/Bhavneet1492/automoviz)  | [Pod-Portfolio](https://github.com/MLH-Fellowship/prep-portfolio-22.OCT.PREP.1) |
 
 <br>
 <br>
